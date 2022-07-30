@@ -2,7 +2,9 @@ git clone <repository SSH url> : definition
 git remote -v : definition
 git branch : definition
 git checkout -b <new branch name> : definition
-git status
-git add .
-git add <file name>
-git commit -m < ‘descriptive commit message’ >
+git status : definition
+git add . : definition
+git add <file name> : definition
+git commit -m < ‘descriptive commit message’ > : definition
+git pull: definition
+git push --set-upstream origin <branch-name>
