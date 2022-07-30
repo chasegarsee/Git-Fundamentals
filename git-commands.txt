@@ -1,0 +1,4 @@
+git clone <repository SSH url> : definition
+git remote -v : definition
+git branch : definition
+git checkout -b <new branch name> : definition
